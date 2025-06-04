@@ -61,12 +61,12 @@ body {
   font-family: "Times New Roman", Times, serif;
   font-size: 80px;
 }
-@media (max-width: 450px) {
+@media (max-width: 550px) {
   .name {
     font-size: 35px;
   }
   .title-Attorney {
-    height: 190px;
+    height: 150px;
   }
 }
 .bg-popnews {
